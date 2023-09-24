@@ -53,7 +53,6 @@ const CameraPage: React.FC = () => {
           <IonIcon icon={cameraOutline} className="ion-padding"/>
           Take a Photo
         </IonButton>
-        {/* {photo ? <img src={photo} alt="Captured" style={{ width: "100%" }} /> : <p>Nothing</p>} */}
       </IonContent>
     </IonPage>
   );
